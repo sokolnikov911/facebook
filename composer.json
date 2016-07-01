@@ -6,14 +6,14 @@
 	"license": "MIT",
 	"authors": [
 		{
-			"name": "U-Zyn Chua",
-			"email": "chua@uzyn.com",
-			"homepage": "http://uzyn.com"
-		},
-		{
 			"name": "Petro Sokolnykov",
 			"email": "info@xyz.net.ua",
 			"homepage": "http://xyz.net.ua"
+		},
+		{
+			"name": "U-Zyn Chua",
+			"email": "chua@uzyn.com",
+			"homepage": "http://uzyn.com"
 		}
 	],
 	"require": {

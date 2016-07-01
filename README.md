@@ -40,8 +40,8 @@ Refer to [Facebook Permissions Reference](https://developers.facebook.com/docs/a
 What difference between this fork and original opauth/facebook
 ---------
 
-1. Using large version of users photos;
-2. Using last version of Facebook API Graph.
+1. Using large version of users avatars;
+2. Using latest version of Facebook API Graph.
 
 License
 ---------
