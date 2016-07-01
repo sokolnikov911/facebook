@@ -1,5 +1,5 @@
 {
-	"name": "opauth/facebook",
+	"name": "sokolnikov911/opauth-facebook-updated",
 	"description": "Facebook strategy for Opauth",
 	"keywords": ["authentication","auth","facebook"],
 	"homepage": "http://opauth.org",
@@ -9,6 +9,11 @@
 			"name": "U-Zyn Chua",
 			"email": "chua@uzyn.com",
 			"homepage": "http://uzyn.com"
+		},
+		{
+			"name": "Petro Sokolnykov",
+			"email": "info@xyz.net.ua",
+			"homepage": "http://xyz.net.ua"
 		}
 	],
 	"require": {

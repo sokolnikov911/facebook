@@ -9,7 +9,7 @@ Getting started
 1. Install Opauth-Facebook:
    ```bash
    cd path_to_opauth/Strategy
-   git clone https://github.com/opauth/facebook.git Facebook
+   git clone https://github.com/sokolnikov911/opauth-facebook-updated.git Facebook
    ```
 
 2. Create Facebook application at https://developers.facebook.com/apps/
@@ -36,6 +36,12 @@ Required parameters:
 Even though `scope` is an optional configuration parameter for Opauth-Facebook, for most cases you would like to explicitly define it. It should be defined in a comma-separated string. 
 
 Refer to [Facebook Permissions Reference](https://developers.facebook.com/docs/authentication/permissions/) for list of valid permissions..
+
+What difference between this fork and original opauth/facebook
+---------
+
+1. Using large version of users photos;
+2. Using last version of Facebook API Graph.
 
 License
 ---------
