@@ -122,7 +122,7 @@ class FacebookStrategy extends OpauthStrategy{
      */
     private function me($access_token){
 
-        $fields = 'id,name,email';//default value
+        $fields = 'id,name,email,link'; //default value
         if ( isset($this->strategy['fields']) ) {
             $fields = $this->strategy['fields'];
         }
